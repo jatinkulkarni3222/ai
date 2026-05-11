@@ -64,3 +64,4 @@ if __name__ == "__main__":
 # python3 Assignment1.py 
 # DFS : 0 1 3 2 4 
 # BFS : 0 1 2 3 4 
+# input : 5,4 , 0 1 ,0 2 ,1 3 , 2 4, 0 
