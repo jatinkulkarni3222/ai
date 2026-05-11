@@ -1,0 +1,45 @@
+
+Practical 1 :
+https://console.aws.amazon.com/iam/.alias : jatin.kulkarni_comp23@pccoer.in
+Password: Velar@3222
+steps: instances...launch instance,..
+...................................................................
+Practical 2:  same password as aws for google cloud console.
+Search... console google cloud...sign in...cloud overview...my project...create project...enable it...then in
+search bar search (app engine admin api)...enable in...then go in console(at right up side)...the go it git create the project and copy
+the link and the in terminal git clone paste the link.(lp2.git)
+commands: (rm -rf lp-2) to remove the previous file...(ls) to show the current file...(cd) fille nAME IN git....the code name 
+..................................................................
+practical 3:
+https://orgfarm-7b41da0bdd-dev-ed.develop.lightning.force.com/lightning/n/devedapp__Welcome
+username: jatin3222kulkarni.0620d7e912dc@agentforce.com
+password : Swami@3222
+Steps: Click on setting and go to Developer console...file...new..apex class..name the class ex:stud...
+Code: 
+public class stud1 {
+ 
+    public static void showMessage() {
+        System.debug('Hello, Welcome to Apex Programming!');
+    }
+
+    public static Integer addNumbers(Integer a, Integer b) {
+        return a + b;
+    }
+}
+
+(CRTL + S)save
+
+execute : 
+stud1.showMessage();
+Integer result = stud1.addNumbers(10, 20);
+System.debug('Result = ' + result);
+...............................................................
+Practical 4:
+https://orgfarm-7b41da0bdd-dev-ed.develop.lightning.force.com/lightning/n/devedapp__Welcome
+Steps:
+go to setting...Setup..object manger..create...then after creating go in fields and relations...click new and add...the click on home and..
+in search bar search(tab)...then in tabs cick on coustm tab..then in that seleect 
+the object that you have created the add tab style SAVE IT NOW.
+..now from there only go to SETUP...in search bar search APP(click on app manager)...click on NEW LIGHTING APP..give app nme..
+.NEXT..NEXT..NEXT...select tabs(SEARCH THE TABS THAT WE HAVE CREATED and can add other to)...NEXT...serach SYSTEM ADMINISTRATOR.
+.save and finish...NOW CLICK ON 9 DOTS(left corner) and search OUR APP NAME..now fill the details
